@@ -1,0 +1,20 @@
+{
+	"name": "mdsbzalam",
+	"version": "1.0.0",
+	"description": "Mohammad Shahbaz Alam",
+	"main": "index.js",
+	"bin": {
+		"info": "index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"mdsbzalam",
+		"mohammad",
+		"shahbaz",
+		"alam"
+	],
+	"author": "hey@mdsbzalam.dev",
+	"license": "ISC"
+}
